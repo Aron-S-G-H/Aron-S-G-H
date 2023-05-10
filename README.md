@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m Aron<br>🔭 I’m currently working on some interesting projects<br>🌱 I’m currently learning and improving in the field of programming<br>💬 Ask me about Web Development<br>📫 How to reach me aronesadegh@gmail.com
+ 👋 Hi, I’m Aron<br>🔭 I’m currently working on some interesting projects<br>🌱 I’m currently learning and improving in the field of programming<br>💬 Ask me about Web Development<br>📫 How to reach me aronesadegh@gmail.com<br>⚡ Fun fact: The earth revolves around the sun
 
 
 ## 🌐 Socials:
